@@ -92,4 +92,4 @@ This project is open-source and available under the MIT License.
 
 ### Portfolio
 
-See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/)..
+See more of my work at [https://www.aaravkashyap.live/](https://www.aaravkashyap.live/).
